@@ -1,3 +1,14 @@
+For English:
+# Coding_deal_py
+Using this code complied by Python ,you can delete the useless code 
+in you code file,speclally the Chinese comment,but can't delete the '//'(for C# program ),
+of course useful for any program code if you want to delete the Chinese comment! 
+And  this is the first step, the code for deal  the code will be more  perfect 
+in the furture!
+
+
+For Chinese:
+
 *****************************************************************
                      代码自动优化整理器
 *****************************************************************

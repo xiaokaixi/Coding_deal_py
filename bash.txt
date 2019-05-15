@@ -1,0 +1,3 @@
+#!/bin/bash
+cd src_code
+python detel_main txtdata
